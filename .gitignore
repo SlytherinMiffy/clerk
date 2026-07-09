@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# environment variables
+.env
+.env.local
+.env.*.local
+
+# private keys
+*.pem
+*.key
+
+# next.js
+.next
+out
+
+# misc
+.DS_Store
+*.tsbuildinfo
